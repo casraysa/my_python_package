@@ -1,0 +1,9 @@
+setup.py
+scr_package/__init__.py
+scr_package/__main__.py
+scr_package/translator_en_es.py
+scr_package/translator_es_en.py
+scr_package.egg-info/PKG-INFO
+scr_package.egg-info/SOURCES.txt
+scr_package.egg-info/dependency_links.txt
+scr_package.egg-info/top_level.txt
